@@ -54,5 +54,4 @@ Project Steps
 
 
 Conclusion
-The project successfully transformed crowdfunding data into structured CSV files and a PostgreSQL database, facilitating efficient data management and analysis. If further clarification is needed, refer to the project steps or seek assistance from the instructional team.
-
+The project successfully transformed crowdfunding data into structured CSV files and a PostgreSQL database, facilitating efficient data management and analysis.
